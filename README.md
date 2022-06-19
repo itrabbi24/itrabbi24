@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Rabbi](https://github.com/itrabbi24/)! 😁
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itrabbi24)
-
+[![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/itrabbi24)
 
 
 Hello, my name is Md Rabbi. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web Api, REST Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs,  Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, cycling, gaming and traveling.
