@@ -23,7 +23,7 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with Two years
 <br>
 <p align="center">
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/cSharp.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/dotnetcore.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/b4e1ebc7e116bf9c1cd41d37a1ca4593865f9347/icon/dotnetcore.svg"></code>
   <code><img title=".Net" height="25" src="hhttps://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/dot-net-original-wordmark.svg"></code>
   <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/javascript.svg"></code>
   <code><img title="Git" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/git-original.svg"></code>
