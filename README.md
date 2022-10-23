@@ -22,28 +22,28 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with Two years
 <h3 align="center">💎 Languages, Frameworks, Tools & Abilities 💎</h2>
 <br>
 <p align="center">
-  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/cSharp.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/dotnetcore.svg"></code>
-  <code><img title=".Net" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/dot-net-original-wordmark.svg"></code>
-  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/javascript.svg"></code>
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/git-original.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/angular.svg"></code>
-  <code><img title="MsSQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/mssql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/postgresql.svg"></code>
-  <code><img title="Mongodb" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/mongodb-original-wordmark.svg"></code>
-  <code><img title="Redis" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/redis-original-wordmark.svg"></code>
-  <code><img title="Mysql" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/mysql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/icons8-visual-studio-code-2019.svg"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/icons8-visual-studio-2019.svg"></code>
-  <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/json.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/bootstrap-plain-wordmark.svg"></code>
-  <code><img title="Chartjs" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/chartjs.svg"></code>
-  <code><img title="Android" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/icon/github.svg"></code>
+  <code><img title="C#" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/cSharp.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/dotnetcore.svg"></code>
+  <code><img title=".Net" height="25" src="hhttps://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/dot-net-original-wordmark.svg"></code>
+  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/javascript.svg"></code>
+  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/git-original.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/angular.svg"></code>
+  <code><img title="MsSQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/mssql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/postgresql.svg"></code>
+  <code><img title="Mongodb" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/mongodb-original-wordmark.svg"></code>
+  <code><img title="Redis" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/redis-original-wordmark.svg"></code>
+  <code><img title="Mysql" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/mysql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/icons8-visual-studio-code-2019.svg"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/icons8-visual-studio-2019.svg"></code>
+  <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/json.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/css.svg"></code>
+  <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/bootstrap-plain-wordmark.svg"></code>
+  <code><img title="Chartjs" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/chartjs.svg"></code>
+  <code><img title="Android" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/android.svg"></code>
+  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/github.svg"></code>
 
 </p>
 <hr>
