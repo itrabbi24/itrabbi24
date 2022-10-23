@@ -5,7 +5,7 @@
 
 Hello, my name is ARG RABBY. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web Api, REST Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, programming, traveling.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/main/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
 <br>
 
 - 💬 Brainstorm with me over tech, algorithms
