@@ -3,7 +3,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/itrabbi24)
 
 
-Hello, my name is ARG RABBY. I am a full-stack software developer with Two years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web Api, REST Api, MsSql Server, MySQL, JavaScript, Jquery, Ajax, RESTful APIs, Angular, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, programming, traveling.
+Hello, my name is ARG RABBY. I am a full-stack software developer with 3 years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web API, REST API, MsSql Server, MySQL, Laravel, PHP, JavaScript, Jquery, Ajax, RESTful APIs, Angular, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, programming, and traveling.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
 <br>
@@ -11,7 +11,7 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with Two years
 - 💬 Brainstorm with me over tech, algorithms
 - 📧 How to reach me: itrabbi24@gmail.com
 - ⚡ Interest In: Android & Ios Apps development, Game development
-- 😄 Fun fact: In my free time i love to travelling
+- 😄 Fun fact: In my free time I love to travel
 
 
 <br><br><br>
@@ -40,6 +40,9 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with Two years
   <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/bootstrap-plain-wordmark.svg"></code>
   <code><img title="Android" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/android.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/github.svg"></code>
+  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/laravel.png"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/laravel.png"></code>
+       <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/php.png"></code>
 
 </p>
 <hr>
