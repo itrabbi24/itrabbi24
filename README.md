@@ -10,7 +10,7 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 3 years o
 
 - 💬 Brainstorm with me over tech, algorithms
 - 📧 How to reach me: itrabbi24@gmail.com
-- ⚡ Interest In: Android & Ios Apps development, Game development
+- ⚡ Interest In : Learning Somthing New
 - 😄 Fun fact: In my free time I love to travel
 
 
