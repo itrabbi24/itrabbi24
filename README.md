@@ -44,6 +44,8 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 3 years o
 </p>
 <hr>
 
+
+<!--
 <h3 align="center">📈 Stats 📈</h2>
 <br>
 <p align=center>
@@ -56,6 +58,6 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 3 years o
   </div>
   <br>
 </p>
-
+-->
 <hr>
 
