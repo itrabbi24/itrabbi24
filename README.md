@@ -3,7 +3,7 @@
 [![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/itrabbi24)
 
 
-Hello, my name is ARG RABBY. I am a full-stack software developer with 3 years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web API, REST API, MsSql Server, MySQL, Laravel, PHP, JavaScript, Jquery, Ajax, RESTful APIs, Angular, Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap. Besides programming, I have an interest in music, programming, and traveling.
+Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web API, REST API, MsSql Server, MySQL, Laravel, PHP, JavaScript, Jquery, Ajax, RESTful APIs, Angular, React js, Express Js, Node Js Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap/Tailwindcss. Besides programming, I have an interest in music, programming, and traveling.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
 <br>
