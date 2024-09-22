@@ -48,6 +48,25 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years o
 <hr>
 
 
+
+ 
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/itrabbi24"> <img src="https://komarev.com/ghpvc/?username=itrabbi24&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
+
 <!--
 <h3 align="center">📈 Stats 📈</h2>
 <br>
