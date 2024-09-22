@@ -39,11 +39,11 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years o
   <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/css.svg"></code>
   <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/bootstrap-plain-wordmark.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/github.svg"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/laravel.png"></code>
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/php.png"></code>
-   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/React-icon.svg.png"></code>
-     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/mern-stack.png"></code>
-   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/node-js-icon-454x512-nztofx17.png"></code>
+  <code><img title="Laravel" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/laravel.png"></code>
+  <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/php.png"></code>
+   <code><img title="React" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/React-icon.svg.png"></code>
+     <code><img title="MERN-Stack" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/mern-stack.png"></code>
+   <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/node-js-icon-454x512-nztofx17.png"></code>
 </p>
 <hr>
 
