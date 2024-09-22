@@ -49,7 +49,6 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years o
 
 ## Profile Views
 
-
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->
@@ -62,6 +61,7 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years o
       </td>
     </tr>
   </table>
+
 <!--
 <h3 align="center">📈 Stats 📈</h2>
 <br>
