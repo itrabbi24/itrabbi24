@@ -27,11 +27,12 @@ I am a **Full-Stack Software Developer** with **4+ years of experience** in desi
 
 ### 🔹 Backend  
 - **C#** (.NET, ASP.NET MVC, .NET Core, Web API, Entity Framework)  
+- **VB.NET**
 - **PHP** (Laravel)  
 - **Node.js** (Express.js)  
 
 ### 🔹 Frontend  
-- **JavaScript** (jQuery, Ajax, Angular, React.js)  
+- **JavaScript** (jQuery, Ajax, Angular, React, Vue)  
 - **HTML, CSS** (Bootstrap, Tailwind CSS)  
 
 ### 🔹 Databases  
