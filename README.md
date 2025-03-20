@@ -1,26 +1,39 @@
-### Hi there 👋, I am [ARG RABBY](https://github.com/itrabbi24/)! 😁
+# Hi there 👋, I'm [ARG RABBY](https://github.com/itrabbi24/) 🚀  
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itrabbi24)
-[![Hackerrank Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerrank.com/itrabbi24)
+[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itrabbi24)
 
+## 🚀 About Me  
+I am a **Full-Stack Software Developer** with **4+ years of experience** in designing, developing, and maintaining scalable applications. My expertise covers backend, frontend, and database management, ensuring end-to-end application efficiency.  
 
-Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years of experience working as a Software Engineer. My technology stack involves C#, .NET, OOP, ASP.Net MVC, .Net Core, Entity Framework, Web API, REST API, MsSql Server, MySQL, Laravel, PHP, JavaScript, Jquery, Ajax, RESTful APIs, Angular, React js, Express Js, Node Js Design Patterns(familiar), and other client-side technologies like HTML/CSS/Bootstrap/Tailwindcss. Besides programming, I have an interest in music, programming, and traveling.
+💡 Passionate about **problem-solving**, **system design**, and **building high-performance applications**.  
+📚 Always eager to **learn new technologies** and **improve software architecture**.  
+🎵 When not coding, I enjoy **music, traveling**, and exploring **new innovations** in tech.  
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" />&nbsp;&nbsp;&nbsp;
-<br>
+<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" alt="Coding Animation" />
 
-- 💬 Brainstorm with me over tech, algorithms
-- 📧 How to reach me: itrabbi24@gmail.com
-- ⚡ Interest In : Learning Somthing New
-- 😄 Fun fact: In my free time I love to travel
+---
 
+## 🛠️ Tech Stack  
+### 🔹 Backend  
+- **C#** (.NET, ASP.NET MVC, .NET Core, Web API, Entity Framework)  
+- **PHP** (Laravel)  
+- **Node.js** (Express.js)  
 
-<br><br><br>
+### 🔹 Frontend  
+- **JavaScript** (jQuery, Ajax, Angular, React.js)  
+- **HTML, CSS** (Bootstrap, Tailwind CSS)  
 
+### 🔹 Databases  
+- **MS SQL Server**  
+- **MySQL**  
 
+### 🔹 Other Skills  
+- **RESTful APIs, OOP, Design Patterns (familiar)**  
 
-<hr>
-<h3 align="center">💎 Languages, Frameworks, Tools & Abilities 💎</h2>
-<br>
+---
+
+## 💎 Languages, Frameworks, Tools & Abilities  
 <p align="center">
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/cSharp.svg"></code>
   <code><img title=".NetCore" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/232e203c9f6fe88601c8b774401d093bbb1f8a94/icon/dotnetcore.svg"></code>
@@ -41,40 +54,23 @@ Hello, my name is ARG RABBY. I am a full-stack software developer with 4 years o
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/github.svg"></code>
   <code><img title="Laravel" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/laravel.png"></code>
   <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/php.png"></code>
-   <code><img title="React" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/React-icon.svg.png"></code>
-     <code><img title="MERN-Stack" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/mern-stack.png"></code>
-   <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/node-js-icon-454x512-nztofx17.png"></code>
+  <code><img title="React" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/React-icon.svg.png"></code>
+  <code><img title="MERN-Stack" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/mern-stack.png"></code>
+  <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/node-js-icon-454x512-nztofx17.png"></code>
 </p>
-<hr>
 
-## Profile Views
+---
 
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/itrabbi24"> <img src="https://komarev.com/ghpvc/?username=itrabbi24&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
+## 📌 Let's Collaborate  
+- 💬 Open to discussions on **algorithms, system design, and best practices**  
+- 📧 Reach me at **itrabbi24@gmail.com**  
+- ⚡ Always learning and exploring new technologies  
 
-<!--
-<h3 align="center">📈 Stats 📈</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itrabbi24&show_icons=true&locale=en&layout=compact" alt="itrabbi24" /></p>
-  </div>
-  <br>
-  <div align=center>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itrabbi24&show_icons=true&locale=en" alt="itrabbi24" /></p>
-  </div>
-  <br>
+---
+
+## 📊 Profile Stats  
+<p align="center">
+  <a href="https://github.com/itrabbi24">
+    <img src="https://komarev.com/ghpvc/?username=itrabbi24&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  </a>
 </p>
--->
-<hr>
-
