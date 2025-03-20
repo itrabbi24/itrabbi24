@@ -68,7 +68,7 @@ I am a **Full-Stack Software Developer** with **4+ years of experience** in desi
   <code><img title="React" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/React-icon.svg.png"></code>
   <code><img title="MERN-Stack" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/mern-stack.png"></code>
   <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/node-js-icon-454x512-nztofx17.png"></code>
-    <code><img title="VueJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/vue-js.png"></code>
+    <code><img title="VueJS" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/refs/heads/master/icon/vue-js.png"></code>
 </p>
 
 ---
