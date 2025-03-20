@@ -1,7 +1,16 @@
 # Hi there 👋, I'm [ARG RABBY](https://github.com/itrabbi24/) 🚀  
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itrabbi24)
-[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itrabbi24)
+<div style="white-space: nowrap;">
+  <a href="https://www.linkedin.com/in/itrabbi24" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/itrabbi24" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge" />
+  </a>
+</div>
+
+
+
 
 ## 🚀 About Me  
 I am a **Full-Stack Software Developer** with **4+ years of experience** in designing, developing, and maintaining scalable applications. My expertise covers backend, frontend, and database management, ensuring end-to-end application efficiency.  
