@@ -10,9 +10,10 @@ I am a **Full-Stack Software Developer** with **4+ years of experience** in desi
 📚 Always eager to **learn new technologies** and **improve software architecture**.  
 🎵 When not coding, I enjoy **music, traveling**, and exploring **new innovations** in tech.  
 
+
+
 <img align="right" height="250" width="375" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" alt="Coding Animation" />
 
----
 
 ## 🛠️ Tech Stack  
 ### 🔹 Backend  
