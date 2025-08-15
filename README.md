@@ -1,54 +1,54 @@
-# Hi there 👋, I'm [ARG RABBY](https://github.com/itrabbi24/) 🚀  
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/itrabbi24">ARG RABBY</a> 🚀</h1>
+<h3 align="center">💻 Full-Stack Software Developer | Problem Solver | Tech Lover</h3>
 
-<div style="white-space: nowrap;">
+<!-- Social Badges -->
+<p align="center">
   <a href="https://www.linkedin.com/in/itrabbi24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/itrabbi24" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:itrabbi24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+<!-- About Me -->
 ## 🚀 About Me  
-I am a **Full-Stack Software Developer** with over **4 years of professional experience** in building, optimizing, and maintaining scalable software solutions.  
-My expertise spans **backend, frontend, and database management**, ensuring **end-to-end performance, reliability, and scalability**.  
+I am a **Full-Stack Software Developer** with **5+ years** of experience building high-quality, scalable, and efficient software solutions.  
+From **backend to frontend**, I design and deliver **end-to-end systems** that are robust, maintainable, and performant.  
 
-💡 Driven by **problem-solving**, **clean architecture**, and **system design** excellence.  
-📚 Lifelong learner, constantly exploring **new frameworks, tools, and technologies**.  
-🎵 Outside of coding, I enjoy **music, travel**, and exploring **emerging tech innovations**.  
+💡 Passionate about **clean code**, **system design**, and **problem-solving**.  
+🌱 Always learning — exploring **cloud computing, microservices, and DevOps tools**.  
+🎵 Outside of tech, I enjoy **music, traveling**, and discovering **emerging innovations**.  
 
 ---
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack  
 
 <img align="right" height="250" width="375" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/gifs/coder.gif" alt="Coding Animation" />
 
 ### 🔹 Backend  
-- **C#** (.NET, ASP.NET MVC, .NET Core, Web API, Entity Framework)  
-- **VB.NET**  
-- **PHP** (Laravel)  
-- **Node.js** (Express.js)  
+`C# (.NET, .NET Core, ASP.NET MVC, Web API, Entity Framework)` • `VB.NET` • `PHP (Laravel)` • `Node.js (Express.js)`
 
 ### 🔹 Frontend  
-- **JavaScript** (jQuery, Ajax, Angular, React, Vue)  
-- **HTML, CSS** (Bootstrap, Tailwind CSS)  
+`JavaScript (jQuery, Ajax, Angular, React, Vue)` • `HTML` • `CSS (Bootstrap, Tailwind CSS)`
 
 ### 🔹 Databases  
-- **MS SQL Server**  
-- **MySQL**  
-- **PostgreSQL**  
-- **SQLite**  
-- **MongoDB**  
+`MS SQL Server` • `MySQL` • `PostgreSQL` • `SQLite` • `MongoDB`
 
-### 🔹 Other Skills  
-- **RESTful APIs, OOP, Design Patterns**  
+### 🔹 Others  
+`RESTful APIs` • `OOP` • `Design Patterns`
 
 ---
 
+<!-- Icons Section -->
 ## 💎 Languages, Frameworks, Tools & Abilities  
-
 <p align="center">
   <code><img title="C#" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/cSharp.svg"></code>
   <code><img title=".NET Core" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/232e203c9f6fe88601c8b774401d093bbb1f8a94/icon/dotnetcore.svg"></code>
@@ -81,17 +81,33 @@ My expertise spans **backend, frontend, and database management**, ensuring **en
 
 ---
 
-## 📌 Let's Collaborate  
-- 💬 Open to discussions on **algorithms, system architecture, and best practices**  
-- 📧 Reach me at **itrabbi24@gmail.com**  
-- ⚡ Always striving to **learn, adapt, and innovate**  
+<!-- GitHub Stats -->
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itrabbi24&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itrabbi24&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-## 📊 Profile Stats  
-
+<!-- Top Languages -->
+## 📌 Top Languages  
 <p align="center">
-  <a href="https://github.com/itrabbi24">
-    <img src="https://komarev.com/ghpvc/?username=itrabbi24&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrabbi24&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Fun Facts -->
+## 🎯 Beyond Code  
+- 🧩 Competitive problem solver  
+- 🌍 Love collaborating with developers worldwide  
+- 🛠 Always experimenting with **new frameworks and tools**  
+- ☕ Coffee + Code = ❤️  
+
+---
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itrabbi24&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </p>
