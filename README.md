@@ -37,7 +37,7 @@ From **backend to frontend**, I design and deliver **end-to-end systems** that a
 `C# (.NET, .NET Core, ASP.NET MVC, Web API, Entity Framework)` • `VB.NET` • `PHP (Laravel)` • `Node.js (Express.js)`
 
 ### 🔹 Frontend  
-`JavaScript (jQuery, Ajax, Angular, React, Vue)` • `HTML` • `CSS (Bootstrap, Tailwind CSS)`
+`JavaScript (jQuery, Ajax, React, Vue)` • `HTML` • `CSS (Bootstrap, Tailwind CSS)`
 
 ### 🔹 Databases  
 `MS SQL Server` • `MySQL` • `PostgreSQL` • `SQLite` • `MongoDB`
@@ -55,7 +55,7 @@ From **backend to frontend**, I design and deliver **end-to-end systems** that a
   <code><img title=".NET Framework" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/232e203c9f6fe88601c8b774401d093bbb1f8a94/icon/dot-net-original-wordmark.svg"></code>
   <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/javascript.svg"></code>
   <code><img title="Git" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/git-original.svg"></code>
-  <code><img title="Angular" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/angular.svg"></code>
+<!--   <code><img title="Angular" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/angular.svg"></code> -->
   <code><img title="MS SQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/mssql.svg"></code>
   <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/6724d766d96715569dcf0d92fe4328b81a059bf4/icon/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/itrabbi24/itrabbi24/master/icon/postgresql.svg"></code>
