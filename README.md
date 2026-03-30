@@ -19,7 +19,7 @@
 
 <!-- About Me -->
 ## 🚀 About Me  
-I am a **Full-Stack Software Developer** with **5+ years** of experience building high-quality, scalable, and efficient software solutions.  
+I am a **Full-Stack Software Developer** with **6+ years** of experience building high-quality, scalable, and efficient software solutions.  
 From **backend to frontend**, I design and deliver **end-to-end systems** that are robust, maintainable, and performant.  
 
 💡 Passionate about **clean code**, **system design**, and **problem-solving**.  
